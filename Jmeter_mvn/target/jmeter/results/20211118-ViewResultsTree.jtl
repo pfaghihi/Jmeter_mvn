@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="978" it="0" lt="149" ct="100" ts="1637290373212" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="65345" sby="364" ng="1" na="1">
+  <httpSample t="149" it="0" lt="149" ct="100" ts="1637290373212" s="true" lb="http://www.appolizer.ca/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="" by="707" sby="182" ng="1" na="1"/>
+  <httpSample t="828" it="0" lt="816" ct="685" ts="1637290373362" s="true" lb="https://www.appolizer.ca/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="64638" sby="182" ng="1" na="1"/>
+</httpSample>
+
+</testResults>
